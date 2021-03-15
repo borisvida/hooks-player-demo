@@ -1,0 +1,7 @@
+video {
+  width: 900px;
+}
+
+video:focus {
+  outline: none;
+}

@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.player {
+  padding-top: 100px;
+  padding-left: 100px;
+}
+
+.time {
+  font-size: 40px;
+  margin-top: 32px;
+}
+
+button {
+  font-size: 32px;
+  margin-top: 32px;
+}
